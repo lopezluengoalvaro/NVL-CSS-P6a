@@ -19,7 +19,7 @@
 <td style="background-color: #FFFFFF;" align="center"><b>1</b></td>
 <td>Talco</td>
 <td>Se puede rayar facilmente con la uña</td>
-<td>Mg<sub>3</sub>Si<sub>4</sub>O<sub>10</sub>(OH)<sub>2</sub>
+<td>Mg<sub>3</sub>Si<sub>4</sub>O<sub>10</sub>
 </td></tr>
 <tr>
 <td style="background-color: #E7E7E7;" align="center"><b>2</b></td>
@@ -50,7 +50,7 @@
 <td style="background-color: #959595;" align="center"><b>6</b></td>
 <td>Ortosa</td>
 <td>Se puede rayar con una lija para el acero</td>
-<td>KAlSi<sub>3</sub>O<sub>8</sub>
+<td>KAlSi<sub>3<sub>O<sub>8</sub>
 </td></tr>
 <tr>
 <td style="background-color: #7C7C7C;" align="center"><span style="color: white;"><b>7</b></span></td>
@@ -59,20 +59,20 @@
 <td>SiO<sub>2</sub>
 </td></tr>
 <tr>
-<td style="background-color: #4F4F4F" align="center"><span style="color: white;"><b>8</b></span></td>
-<td>Topacio</td>
+<td style="background-color: #4F4F4F" align="Center"><span style="color: white;"><b>8</b></span></td>
+<Td>Topacio</td>
 <td>Rayado por herramientas de carburo de wolframio</td>
-<td>Al<sub>2</sub>SiO<sub>4</sub>(OH-,F-)<sub>2</sub>
+<td>Al<sub>2</sub>SiO<sub>4<sub>(OH-)<sub>2</sub>
 </td></tr>
 <tr>
-<td style="background-color: #292929;" align="center"><span style="color: white;"><b>9</b></span></td>
+<td style="background-color: #292929;" align="Center"><span style="color: white;"><b>9</b></span></td>
 <td>Corindón</td>
 <td>Rayado por herramientas de carburo de silicio</td>
 <td>Al<sub>2</sub>O<sub>3</sub>
 </td></tr>
 <tr>
-<td style="background-color: #000000;" align="center"><span style="color: white;"><b>10</b></span></td>
-<td>Diamante</td>
+<td style="Background-color: #000000;" align="center"><span style="color: white;"><b>10</b></span></td>
+<Td>Diamante</td>
 <td>El material mas duro en esta escala (rayado por otro diamante).</td>
 <td>
 </td></tr>
